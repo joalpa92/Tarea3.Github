@@ -17,7 +17,7 @@ public class Main {
                 System.out.println(Math.random()*3);
                 break;
             case 3:
-                 System.out.println("Goodbye!!");
+                System.out.println("Adios!!");
             case 4:
                 System.out.println("Paco con P mayuscula");
             break;
